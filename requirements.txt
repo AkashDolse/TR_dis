@@ -1,0 +1,6 @@
+Flask==2.3.3
+Flask-Cors==3.1.1
+pandas==2.0.3
+opencv-python==4.7.0.72
+psycopg2==2.9.6
+logging==0.5.1.2
